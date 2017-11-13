@@ -3,7 +3,7 @@
 Core Immutable Storage Java-Component
 
 **Usage:**
-- https://github.com/mikelaud/core-hierarchy-manager/blob/master/src/test/java/mikelaud/core/storage/immutable/ImmutableStorageDemo.java
+- https://github.com/mikelaud/core-immutable-storage/blob/master/src/test/java/mikelaud/core/storage/immutable/ImmutableStorageDemo.java
 
 **Maven:**
 ```XML
